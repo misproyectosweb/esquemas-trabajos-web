@@ -16,4 +16,4 @@ Con la maquetación la meta es crear una experiencia de usuario (UX) fluida, rá
 ![imgUX_2](https://github.com/user-attachments/assets/e41631bb-7c08-4072-b152-4d4a41ade900)
 <!-- Foto de <a href="https://unsplash.com/es/@uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">UX Indonesia</a> en <a href="https://unsplash.com/es/fotos/person-writing-on-white-paper-qC2n6RQU4Vw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
       
-<img src="imgUX_2.jpg" alt="(https://github.com/user-attachments/assets/9071c0c0-fbcc-49fc-9ba2-92b5831b1e33)">
+<img src="imgUX_2.jpg (https://github.com/user-attachments/assets/9071c0c0-fbcc-49fc-9ba2-92b5831b1e33)" alt="">
