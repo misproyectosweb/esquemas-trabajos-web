@@ -14,5 +14,8 @@ Una vez definida la experiencia de usuario y basados en la información obtenida
 
 Con la maquetación la meta es crear una experiencia de usuario (UX) fluida, rápida y agradable, más allá de la estética, priorizando la usabilidad y el rendimiento. Además de asegurar que la web se vea y funcione bien en cualquier tamaño de pantalla, desde un smartphone hasta un monitor grande.
 
+<div align="center">
 ![imgUX_2](https://github.com/user-attachments/assets/e41631bb-7c08-4072-b152-4d4a41ade900)
+</div>
+  
 <!-- Foto de <a href="https://unsplash.com/es/@uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">UX Indonesia</a> en <a href="https://unsplash.com/es/fotos/person-writing-on-white-paper-qC2n6RQU4Vw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->      
